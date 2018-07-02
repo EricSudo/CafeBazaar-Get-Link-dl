@@ -24,5 +24,4 @@ info
 ======
 
  - <b>Script Name</b> : CafeBazzar Get Link dl
- - <b>Created By</b> :  [{ Eric }](https://t.me/SudoEric)
  - <b>Channel</b> : [@PvEric](https://t.me/PvEric)
